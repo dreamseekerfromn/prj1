@@ -1,0 +1,32 @@
+Name: Sung Yi
+SSOID: sjy7rf
+project1
+Sep 18 2016
+
+NAME
+loglib.c - a library for log 
+log.h - a header for the library
+test - a executable file that is created for test the library
+
+DESCRIPTION
+a simple log library testing file
+
+-h
+will show the purpose of the file "test"
+
+-n [integer]
+will print [integer] to logfile
+
+-l [filename]
+the output will be [filename]
+
+Author
+Sung Yi
+
+Additional Note
+1. addmsg function is about 99% same as the program 2.7 in the textbook, no comment added.
+
+2. resubmitting old files from the last OS class. log.h and loglib.c are same (RCS are same too). main.c is different.
+
+
+
